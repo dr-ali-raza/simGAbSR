@@ -1,5 +1,8 @@
 # simGAbSR
-GA-based Self Reconfiguration of Modular Robots (Impulse Actuated). This code is developed in the AI &amp; Robotics Lab of UET Lahore, Pakistan. One can access  the lab-page at http://uet.edu.pk/pp/mct/~aliraza/lab.html  The initial version of the code was written by Haseeb Ahmad under the supervision of  Dr. Ali Raza, towards his Masters thesis. Unfortunately, soon after Haseeb's graduation,  he died due to sudden heart failure. May his soul rest in peace.  The code was further upgraded and augmented by Faiza Munir. The code is provided as open source, E&amp;OE. 
+GA-based Self Reconfiguration of Modular Robots (Impulse Actuated)
+
+This code is developed in the AI &amp; Robotics Lab of UET Lahore, Pakistan. One can access  the lab-page at http://uet.edu.pk/pp/mct/~aliraza/lab.html  The initial version of the code was written by Haseeb Ahmad under the supervision of  Dr. Ali Raza, towards his Masters thesis. Unfortunately, soon after Haseeb's graduation,  he died due to sudden heart failure. May his soul rest in peace.  The code was further upgraded and augmented by Faiza Munir. The code is provided as open source, E&amp;OE. 
+
 ------------------------------------------------------------------------------------------
 Any observations and improvements can be directed to (ali.raza at ymail.com)
 
